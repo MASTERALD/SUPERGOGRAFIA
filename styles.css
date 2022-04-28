@@ -1,11 +1,11 @@
 body{
-    background: url(/IMG/geografia-mapa-tierra-mineral-oro-marmol-granito-ligero-lujo-interior-textura-fondo-superficie-elementos-imagen-proporcionada-nasa_33861-1286.jpg);
+    background: url(geografia-mapa-tierra-mineral-oro-marmol-granito-ligero-lujo-interior-textura-fondo-superficie-elementos-imagen-proporcionada-nasa_33861-1286.jpg);
     font-family: Arial;
 }
 
 #main-container{
     padding-top: 30px;
-    text-align: center;
+    text-align: cnter;
 }
 
 .btn{
